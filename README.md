@@ -20,5 +20,4 @@ Throughout this course, we will cover a wide array of topics essential for under
 ## 🎉 Gratitude
 I extend my heartfelt thanks to FreeCodeCamp and the creators of this course for making such a valuable resource available to everyone interested in Machine Learning. The journey has been incredibly enriching, and I am grateful for the support and encouragement from instructors and fellow learners alike.
 
-Discover more about this course on FreeCodeCamp's YouTube channel to start your own journey in machine learning: [Machine Learning in 2024 – Beginner's Course](https://www.youtube.com/watch?v=URL_OF_THE_COURSE).
-
+Discover more about this course on FreeCodeCamp's YouTube channel to start your own journey in machine learning: [Machine Learning in 2024 – Beginner's Course](https://www.youtube.com/watch?v=bmmQA8A-yUA&t=5002s)
